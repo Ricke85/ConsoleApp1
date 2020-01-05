@@ -7,7 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             // Just a comment done in GitBub
-            // Just another comment done in GitBub
+            // Just another comment done in GitHub
             Console.WriteLine("Hello World!");
         }
     }
